@@ -1,0 +1,16 @@
+{
+    "db": {
+        "name": "db",
+        "connector": "memory"
+    },
+    "localpg": {
+        "name": "localpg",
+        "connector": "postgresql",
+        "debug": true,
+        "_host": "localhost",
+        "_port": 5432,
+        "_username": "",
+        "_password": "",
+        "database": "knowverflow_development"
+    }
+}
