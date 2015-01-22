@@ -23,7 +23,5 @@
     "errorHandler": {
       "disableStackTrace": false
     }
-  },
-  "cookieSecret": "3eecdea8-d295-42ec-a5cc-ffabc176f727",
-  "saveLiveEdit": true
+  }
 }
