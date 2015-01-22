@@ -6,7 +6,7 @@ var app = module.exports = loopback();
 // Sub-apps like REST API are mounted via boot scripts.
 boot(app, __dirname);
 
-console.log( app.get('demo') );
+console.log("config loaded from " + app.get('loaded_from') );
 
 app.start = function() {
   // start the web server
