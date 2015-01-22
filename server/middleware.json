@@ -13,7 +13,7 @@
   },
   "routes": {
     "loopback#status": {
-      "paths": "/"
+      "paths": "/status"
     }
   },
   "files": {
